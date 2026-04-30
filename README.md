@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Md Qamar Aziz 👋
 
-<!--
-**mdqamaraziz/mdqamaraziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack MERN Developer  
+💻 Passionate about building scalable web applications  
+📊 Strong in Data Structures & Algorithms (Java)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Frontend: React.js, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman
+
+---
+
+## 📌 Projects
+- 🔹 Alpha Trade (Trading Platform)
+- 🔹 Wanderlust (Travel Listing Platform)
+
+---
+
+## 🧪 Mini Projects
+- Todo App
+- Weather App
+- Blog App
+
+---
+- ## 📫 Connect with me
+- GitHub: https://github.com/mdqamaraziz  
+- LinkedIn: https://www.linkedin.com/in/mdqamaraziz
