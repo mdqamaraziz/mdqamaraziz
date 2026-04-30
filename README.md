@@ -1,31 +1,70 @@
 # Hi, I'm Md Qamar Aziz 👋
 
-🚀 Full Stack MERN Developer  
-💻 Passionate about building scalable web applications  
-📊 Strong in Data Structures & Algorithms (Java)  
+🎓 Final Year Computer Science Student (Graduating Soon)
+💻 Aspiring Software Engineer | Full Stack MERN Developer
+📊 Strong in Data Structures & Algorithms (Java)
 
 ---
 
-## 🔧 Tech Stack
-- Frontend: React.js, Bootstrap
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, Postman
+## 🚀 About Me
+
+I am a final-year Computer Science student with hands-on experience in building full-stack web applications using the MERN stack.
+
+I enjoy working on real-world projects involving backend logic, authentication systems, and scalable architecture.
+
+Currently seeking opportunities as a **Software Engineer / Full Stack Developer**.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* React.js
+* Bootstrap
+* HTML, CSS, JavaScript
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+
+**Tools**
+
+* Git
+* GitHub
+* Postman
 
 ---
 
 ## 📌 Projects
-- 🔹 Alpha Trade (Trading Platform)
-- 🔹 Wanderlust (Travel Listing Platform)
+
+### 🌍 Wanderlust — Travel Listing Platform
+
+* Full-stack MERN application inspired by Airbnb
+* Features: authentication, listings, reviews, maps
+* Implements MVC architecture and authorization
+
+### 📈 Alpha Trade — Trading Platform
+
+* Full-stack trading dashboard with JWT authentication
+* Secure login system and RESTful API integration
 
 ---
 
-## 🧪 Mini Projects
-- Todo App
-- Weather App
-- Blog App
+## 🎯 Career Objective
+
+I am actively looking for entry-level roles or internships as a Software Engineer where I can contribute to real-world applications and grow my technical skills.
 
 ---
-- ## 📫 Connect with me
-- GitHub: https://github.com/mdqamaraziz  
-- LinkedIn: https://www.linkedin.com/in/mdqamaraziz
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/mdqamaraziz
+* LinkedIn: https://www.linkedin.com/in/mdqamaraziz
+
+---
