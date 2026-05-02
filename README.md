@@ -45,7 +45,7 @@ Currently seeking opportunities as a **Software Engineer / Full Stack Developer*
 
 ### 🌍 Wanderlust — Travel Listing Platform
 
-* Full-stack MERN application inspired by Airbnb
+* Full-stack MERN application
 * Features: authentication, listings, reviews, maps
 * Implements MVC architecture and authorization
 
