@@ -1,8 +1,8 @@
 # Hi, I'm Md Qamar Aziz 
 
-🎓 Final Year Computer Science Student (Graduating Soon)
+🎓 Computer Science Student (2026)
 💻 Aspiring Software Engineer | Full Stack MERN Developer
-📊 Strong in Data Structures & Algorithms (Java)
+📊 Data Structures & Algorithms (Java)
 
 ---
 
