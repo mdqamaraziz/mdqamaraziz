@@ -1,4 +1,4 @@
-# Hi, I'm Md Qamar Aziz 👋
+# Hi, I'm Md Qamar Aziz 
 
 🎓 Final Year Computer Science Student (Graduating Soon)
 💻 Aspiring Software Engineer | Full Stack MERN Developer
