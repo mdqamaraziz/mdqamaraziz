@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a final-year Computer Science student with hands-on experience in building full-stack web applications using the MERN stack.
+Computer Science student with hands-on experience in building full-stack web applications using the MERN stack.
 
 I enjoy working on real-world projects involving backend logic, authentication systems, and scalable architecture.
 
