@@ -1,70 +1,151 @@
-# Hi, I'm Md Qamar Aziz 
+# Hi, I'm MD Qamar Aziz 👋
 
-🎓 Computer Science Student (2026)
-💻 Aspiring Software Engineer | Full Stack MERN Developer
-📊 Data Structures & Algorithms (Java)
+🎓 B.Tech Computer Science Engineering Graduate (2026)
+💻 Software Engineer | Full-Stack Developer | MERN Stack
+☕ Java | Data Structures & Algorithms
 
 ---
 
 ## 🚀 About Me
 
-Computer Science student with hands-on experience in building full-stack web applications using the MERN stack.
+I'm a Computer Science Engineering graduate with hands-on experience building **full-stack web applications using the MERN stack**.
 
-I enjoy working on real-world projects involving backend logic, authentication systems, and scalable architecture.
+I enjoy developing real-world applications involving **RESTful APIs, authentication, backend services, database management, and responsive frontend interfaces**.
 
-Currently seeking opportunities as a **Software Engineer / Full Stack Developer**.
+I'm currently looking for opportunities as a **Software Engineer / Full-Stack Developer**, where I can contribute to real-world products and continue growing as a developer.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
 * React.js
+* JavaScript
+* HTML5
+* CSS3
 * Bootstrap
-* HTML, CSS, JavaScript
+* Tailwind CSS
 
-**Backend**
+### Backend
 
 * Node.js
 * Express.js
+* RESTful APIs
+* JWT Authentication
+* MVC Architecture
 
-**Database**
+### Database
 
 * MongoDB
+* MySQL
 
-**Tools**
+### Languages
 
-* Git
-* GitHub
+* Java
+* JavaScript
+
+### Tools & Technologies
+
+* Git & GitHub
 * Postman
+* Docker
+* AWS
+* CI/CD
+
+### Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### 🌍 Wanderlust — Travel Listing Platform
+### 🎥 Lumivo — Real-Time Video Conferencing
 
-* Full-stack MERN application
-* Features: authentication, listings, reviews, maps
-* Implements MVC architecture and authorization
+Full-stack video conferencing application built using the MERN stack.
 
-### 📈 Alpha Trade — Trading Platform
-
-* Full-stack trading dashboard with JWT authentication
-* Secure login system and RESTful API integration
-
----
-
-## 🎯 Career Objective
-
-I am actively looking for entry-level roles or internships as a Software Engineer where I can contribute to real-world applications and grow my technical skills.
+* Real-time video communication using WebRTC
+* Real-time signaling using Socket.IO
+* JWT authentication and protected routes
+* RESTful APIs with Node.js and Express.js
+* MongoDB database integration
+* React Context API for state management
 
 ---
 
-## 📫 Connect with Me
+### 🌍 Wanderlust — Property Listing Platform
 
-* GitHub: https://github.com/mdqamaraziz
-* LinkedIn: https://www.linkedin.com/in/mdqamaraziz
+Full-stack property listing and review platform built using the MERN stack.
+
+* User authentication and authorization
+* Property listings with CRUD functionality
+* Reviews and ratings
+* Maps integration
+* Cloudinary image uploads
+* MVC architecture
+* Dynamic pricing with GST calculation
+* Protected routes and role-based access
 
 ---
+
+### 📈 AlphaTrade — Stock Trading Dashboard
+
+Full-stack stock trading and portfolio management application.
+
+* JWT-based authentication
+* Protected routes
+* RESTful API integration
+* Stock portfolio management
+* Buy/sell transaction workflows
+* Interactive charts and dashboard
+* React frontend with Node.js and Express.js backend
+
+---
+
+## 💼 Experience
+
+### Junior Software & Automation Engineer Intern
+
+**SecureTax Management | Jan 2026 – Jun 2026**
+
+* Developed web applications using React.js, JavaScript, Node.js, Express.js, and MongoDB.
+* Built CRUD functionality and REST APIs for internal business workflows.
+* Worked on workflow automation to improve operational efficiency.
+* Integrated AI services/APIs into application workflows.
+
+### Web Development Intern
+
+**CodSoft | Aug 2024 – Sep 2024**
+
+* Developed responsive web applications using HTML, CSS, JavaScript, and React.js.
+* Built interactive and user-friendly interfaces.
+
+### Web Development Intern
+
+**Oasis Infobyte | Aug 2024 – Sep 2024**
+
+* Developed responsive web pages using HTML, CSS, JavaScript, and React.js.
+* Created reusable UI components and responsive layouts.
+
+---
+
+## 🎯 Currently Looking For
+
+I'm actively looking for **entry-level Software Engineer / Full-Stack Developer opportunities** where I can work on real-world applications, solve challenging problems, and grow as a software engineer.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [mdqamaraziz2005@gmail.com](mailto:mdqamaraziz2005@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/mdqamaraziz
+🐙 **GitHub:** https://github.com/mdqamaraziz
+
+---
+
+⭐ Feel free to explore my repositories and projects!
