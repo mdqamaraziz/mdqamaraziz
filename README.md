@@ -139,12 +139,11 @@ Full-stack stock trading and portfolio management application.
 I'm actively looking for **entry-level Software Engineer / Full-Stack Developer opportunities** where I can work on real-world applications, solve challenging problems, and grow as a software engineer.
 
 ---
-
 ## 📫 Connect With Me
 
 📧 **Email:** [mdqamaraziz2005@gmail.com](mailto:mdqamaraziz2005@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/mdqamaraziz
-   🐙 **GitHub:** https://github.com/mdqamaraziz
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mdqamaraziz)
+🐙 **GitHub:** [GitHub](https://github.com/mdqamaraziz)
 
 ---
 
