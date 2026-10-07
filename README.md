@@ -144,7 +144,7 @@ I'm actively looking for **entry-level Software Engineer / Full-Stack Developer 
 
 📧 **Email:** [mdqamaraziz2005@gmail.com](mailto:mdqamaraziz2005@gmail.com)
 💼 **LinkedIn:** https://www.linkedin.com/in/mdqamaraziz
-🐙 **GitHub:** https://github.com/mdqamaraziz
+   🐙 **GitHub:** https://github.com/mdqamaraziz
 
 ---
 
